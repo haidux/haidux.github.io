@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="/skazki/taxonomy/term/35/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>интервью</title>
+    <link>/skazki/taxonomy/term/35/all</link>
+    <description></description>
+    <language>ru</language>
+     <atom:link href="/skazki/taxonomy/term/35/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>2006-06-14 - МАРТОВСКОЕ ИНТЕРВЬЮ ДЛЯ ОДНОГО НОВОСТНОГО САЙТА</title>
+    <link>/skazki/content/2006-06-14-martovskoe-intervyu-dlya-odnogo-novostnogo-sayta</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;В марте сего года один очень популярный новостной сайт чуть было не опубликовал интервью с Гайдуком. Брал его известный журналист &lt;a href=&quot;http://ssr.livejournal.com/&quot; target=&quot;_blank&quot;&gt;Сергей Рублёв&lt;/a&gt;. Интервью получилось неплохое, но какое-то непубликабельное... скорее для &quot;Конопляных Джунглей&quot;, чем для популярного новостного сайта. В связи с чем и предлагаю его вашему вниманию здесь и сейчас.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 23 May 2013 10:59:01 +0000</pubDate>
+ <dc:creator>admin3000</dc:creator>
+ <guid isPermaLink="false">335 at /skazki</guid>
+  </item>
+  <item>
+    <title>2002/03/11 - ИНТЕРВЬЮ ДЛЯ ЖУРНАЛА FHM  </title>
+    <link>/skazki/content/20020311-intervyu-dlya-zhurnala-fhm</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt; (Полная версия)&lt;/p&gt;
+&lt;p&gt;- В ТВОИХ СКАЗКАХ ГЛАВНЫМИ ДЕЙСТВУЮЩИМИ ЛИЦАМИ ЯВЛЯЮТСЯ РАСТАМАНЫ. РАЗЪЯСНИ, ПОЖАЛУЙСТА, КТО В ТВОЕМ ПОНИМАНИИ РАСТАМАН?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 17 Apr 2013 08:06:52 +0000</pubDate>
+ <dc:creator>admin3000</dc:creator>
+ <guid isPermaLink="false">274 at /skazki</guid>
+  </item>
+  <item>
+    <title>2002/10/15 - ИНТЕРВЬЮ ДЛЯ &quot;КОМСОМОЛЬСКОЙ ПРАВДЫ В УКРАИНЕ&quot;  </title>
+    <link>/skazki/content/20021015-intervyu-dlya-komsomolskoy-pravdy-v-ukraine</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt; (Полная версия)&lt;/p&gt;
+&lt;p&gt;Написанные изначально для людей, курящих марихуану, и повествующие об историях, случившихся (или привидевшихся) в состоянии кумара, &quot;Растаманские народные сказки&quot; неожиданно стали любимым чтивом граждан, которые отнюдь не увлекаются травкой. Сказки взахлеб цитируют продвинутые московские пиарщики и окололитературные тусовщики. Несмотря на простоту изложения, разговорный стиль, обилие сленга и ненормативную лексику.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 17 Apr 2013 08:06:51 +0000</pubDate>
+ <dc:creator>admin3000</dc:creator>
+ <guid isPermaLink="false">272 at /skazki</guid>
+  </item>
+  </channel>
+</rss>
